@@ -138,11 +138,6 @@ with open('TEST110002016_ver18.csv','w') as f:
     f.write(str(i+1)+","+str(float(testPR[i]))+"\n")
 ```
 
-結果分析
-=======
-my submission：
-![image](https://github.com/MachineLearningNTUT/regression-NTUB110002016/blob/main/HW1/Picture/my%20submission.JPG)
-
 實際與預測差距大\
 原因:\
 1.資料異常值\
@@ -154,10 +149,6 @@ my submission：
 =======
 1.改變模型\
 2.微調參數，例如:learning rate或batch size
-
-心得
-=======
-當繳交作業的時候，我很疑惑我到底是為什麼loss永遠這麼大，但經過許多次的改變模型與微調參數，終於在public來到了50，但由於長時間的未嘗試掉到108名，甚至於在private裡是131名，我當時有傻住了。明明public與private差了這麼多，甚至private的loss還比較少，經由前幾名的分享我知道我所欠缺的地方。
 
 備註
 =======
