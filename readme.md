@@ -50,7 +50,7 @@ Xtest=sc.transform(Xtest)
 
 做法
 =======
-![image](https://github.com/MachineLearningNTUT/regression-NTUB110002016/blob/main/HW1/Picture/model.JPG?raw=true)
+![image](https://github.com/arcaea/ML-NTUT-2021-Regression/blob/main/Picture/model.JPG)
 
 程式寫法
 =======
